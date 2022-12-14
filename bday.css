@@ -1,0 +1,65 @@
+header{
+	text-align: center;
+	background: -webkit-linear-gradient(176deg, #ff5471, #ffffff);
+	font-family: cursive;
+	margin: 3%;
+	padding: 1%;
+	border-radius: 25px;
+}
+
+section:first-of-type{
+	text-align: center;
+	font-family:cursive;
+	margin-bottom:3%;
+	padding: 2%;
+	display: inline-block;
+	width: 40%;
+	height: 20%;
+	font-size:20px;
+	background: #ffd5d5;
+	background: -webkit-linear-gradient(80deg, #e7c5ad00, #ffffff);
+    border-radius: 40px;
+	
+}
+
+body{
+	margin: 4%;
+	background-image: url("backhearts.jpg");
+}
+
+
+
+section:last-of-type{
+	text-align: center;
+	font-family: cursive;
+	width: 40%;
+	height: 20%;
+	margin-left: 1%;
+	padding: 2%;
+	display: inline-block;
+	float:right;
+	margin-bottom: 3%;
+	font-size:20px;
+	background: #ffd5d5;
+    border-radius: 40px;
+	background: -webkit-linear-gradient(80deg, #e7c5ad00, #ffffff);
+	
+}
+
+}
+.letter{
+	display: inline-block;
+	
+}
+
+footer{
+	text-align: center;
+	clear: both;
+	margin: 10%;
+	font-size: 25px;
+}
+
+
+.small{
+	font-size: 20%;
+}
